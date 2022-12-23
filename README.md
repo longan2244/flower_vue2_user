@@ -1,4 +1,4 @@
-# app
+# 花卉图片管理
 
 ## Project setup
 ```
